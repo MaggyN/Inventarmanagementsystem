@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("fonts/flaticon.eot");
+	src: url("fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("fonts/flaticon.woff") format("woff"),
+	url("fonts/flaticon.ttf") format("truetype"),
+	url("fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+
+font-style: normal;
+
+}.flaticon-add30:before {
+	content: "\e000";
+}
+.flaticon-chilis:before {
+	content: "\e001";
+}
+.flaticon-drink110:before {
+	content: "\e002";
+}
+.flaticon-drink31:before {
+	content: "\e003";
+}
+.flaticon-fish52:before {
+	content: "\e004";
+}
+.flaticon-fruit42:before {
+	content: "\e005";
+}
+.flaticon-shopping100:before {
+	content: "\e006";
+}
+.flaticon-sweet9:before {
+	content: "\e007";
+}
+.flaticon-turkey7:before {
+	content: "\e008";
+}
